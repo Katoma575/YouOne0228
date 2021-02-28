@@ -278,7 +278,7 @@ li {
 /*item ------------- */
 #item {
   font-size: 0.75rem;
-  text-align: center;
+  /* text-align: center; */
 }
 #item ul {
   padding-top: 30px;
@@ -292,6 +292,7 @@ li {
 #item li p {
   font-size: 1rem;
   line-height: 1.5;
+  text-align: left;
 }
 
 /* access -------------*/
